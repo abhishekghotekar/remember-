@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+schedule
+pyttsx3
+pypiwin32
+pydantic-settings
+sqlalchemy
+
+
+

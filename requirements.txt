@@ -6,7 +6,11 @@ schedule
 pydantic-settings
 sqlalchemy
 chatterbox-tts
-pypiwin32
+soundfile
+pypiwin32; sys_platform == 'win32'
+setuptools
+wheel
+
 
 
 
